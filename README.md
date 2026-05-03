@@ -11,7 +11,7 @@ This is a personalized e-commerce mobile application with backend API, divided a
 git clone <repository-url>
 cd Ego_Creation_Project-master
 
-# Install backend dependencies
+# Install backend dependenciessss
 cd backend
 npm install
 
